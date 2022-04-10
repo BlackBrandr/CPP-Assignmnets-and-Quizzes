@@ -1,0 +1,5 @@
+Patient Information
+Name: Nil, Age: 65, DailyCharge: 846.000000 SSN: 3354, Number of Days Left: 1, Current expense: 5076.000000
+Name: Ahmet, Age: 23, DailyCharge: 1352.000000 SSN: 3351, Number of Days Left: 1, Current expense: 6760.000000
+Name: Nil, Age: 65, DailyCharge: 1509.000000 SSN: 3354, Number of Days Left: 7, Current expense: 3018.000000
+Name: Seda, Age: 43, DailyCharge: 1356.000000 SSN: 3355, Number of Days Left: 2, Current expense: 1356.000000

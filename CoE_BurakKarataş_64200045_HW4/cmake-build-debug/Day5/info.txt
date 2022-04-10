@@ -1,0 +1,5 @@
+Patient Information
+Name: Sude, Age: 49, DailyCharge: 1910.000000 SSN: 3353, Number of Days Left: 1, Current expense: 9550.000000
+Name: Nil, Age: 65, DailyCharge: 846.000000 SSN: 3354, Number of Days Left: 2, Current expense: 4230.000000
+Name: Ahmet, Age: 23, DailyCharge: 1352.000000 SSN: 3351, Number of Days Left: 2, Current expense: 5408.000000
+Name: Nil, Age: 65, DailyCharge: 1509.000000 SSN: 3354, Number of Days Left: 8, Current expense: 1509.000000

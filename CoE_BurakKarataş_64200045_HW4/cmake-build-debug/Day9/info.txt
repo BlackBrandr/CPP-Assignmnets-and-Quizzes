@@ -1,0 +1,5 @@
+Patient Information
+Name: İbrahim, Age: 23, DailyCharge: 874.000000 SSN: 3357, Number of Days Left: 8, Current expense: 1748.000000
+Name: Nil, Age: 65, DailyCharge: 1509.000000 SSN: 3354, Number of Days Left: 4, Current expense: 7545.000000
+Name: Kemal, Age: 47, DailyCharge: 1051.000000 SSN: 3358, Number of Days Left: 9, Current expense: 1051.000000
+Name: Nazif, Age: 30, DailyCharge: 1792.000000 SSN: 3356, Number of Days Left: 2, Current expense: 5376.000000

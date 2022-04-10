@@ -1,0 +1,4 @@
+Patient Information
+Name: Nazif, Age: 30, DailyCharge: 1792.000000 SSN: 3356, Number of Days Left: 4, Current expense: 1792.000000
+Name: Seda, Age: 43, DailyCharge: 1356.000000 SSN: 3355, Number of Days Left: 1, Current expense: 2712.000000
+Name: Nil, Age: 65, DailyCharge: 1509.000000 SSN: 3354, Number of Days Left: 6, Current expense: 4527.000000

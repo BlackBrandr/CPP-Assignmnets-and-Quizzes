@@ -1,0 +1,3 @@
+/Users/burakkaratas/CLionProjects/hospital/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/burakkaratas/CLionProjects/hospital/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/burakkaratas/CLionProjects/hospital/cmake-build-debug/CMakeFiles/hospital.dir
